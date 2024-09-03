@@ -27,7 +27,7 @@ struct TextView: View {
 }
 
 class TextViewModel: ObservableObject {
-    @Published var text = "Hello, world world world!"
+    @Published var text = "Hello, world world worldd!"
     @Published var isError = false
     
     func configure(isError: Bool) {
