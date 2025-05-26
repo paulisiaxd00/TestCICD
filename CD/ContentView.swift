@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         TextView(viewModel: TextViewModel())
-        Button("Marta rebase", action: {})
+        Button("Marta squash", action: {})
     }
 }
 
