@@ -16,6 +16,18 @@ struct ContentView: View {
         Button("Marta squash", action: {})
         Button("1", action: {})
         Button("2", action: {})
+        Button("Marta squash", action: {})
+        Button("1", action: {})
+        Button("2", action: {})
+        Button("Marta squash", action: {})
+        Button("1", action: {})
+        Button("2", action: {})
+        Button("2", action: {})
+        Button("Marta squash", action: {})
+        Button("1", action: {})
+        Button("Marta squash", action: {})
+        Button("1", action: {})
+        Button("2", action: {})
     }
 }
 
