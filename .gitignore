@@ -1,3 +1,9 @@
 CD.xcodeproj/project.xcworkspace/xcuserdata/paulina.xcuserdatad/UserInterfaceState.xcuserstate
 *.xcuserstate
 .DS_Store
+
+Build
+
+# fastlane
+Fastlane/report.xml
+Fastlane/test_output
