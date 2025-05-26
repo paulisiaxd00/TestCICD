@@ -11,6 +11,8 @@ struct ContentView: View {
     var body: some View {
         TextView(viewModel: TextViewModel())
         Button("Marta squash", action: {})
+        Button("1", action: {})
+        Button("2", action: {})
     }
 }
 
